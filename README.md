@@ -1,4 +1,4 @@
-## WiDS 2023 Sudoku Solver
+# WiDS 2023 Sudoku Solver
 
 Run 'main.py' to show the output.
 
